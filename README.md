@@ -51,17 +51,11 @@ I am looking for projects that allow me to apply my experience and skills to dri
 ![git](https://img.shields.io/badge/Git-%23F20089?style=flat&logo=git&logoColor=white)
 ![bash](https://img.shields.io/badge/Bash-%23F20089?style=flat&logo=gnubash&logoColor=white)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=betonajera9&show_icons=true&rank_icon=github&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=donut" />
 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=donut" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=betonajera9&show_icons=true&rank_icon=github&theme=radical" />
 
-<div style="text-align: center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=betonajera9&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </a>
-</div>
+ <img src="https://streak-stats.demolab.com?user=betonajera9&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 <br/>
 <br/>
 
