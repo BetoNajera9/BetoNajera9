@@ -24,8 +24,9 @@ I am looking for projects that allow me to apply my experience and skills to dri
 
 ![Javascript](https://img.shields.io/badge/Javascript-%23F20089?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-%23F20089?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%23F20089?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23F20089?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F20089?style=flat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F20089?style=flat&logo=openjdk&logoColor=white)
 
 ### Frameworks
 
