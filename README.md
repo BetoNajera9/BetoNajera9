@@ -72,6 +72,8 @@ I am looking for projects that allow me to apply my experience and skills to dri
 
 > 📦 134.8 kB Used in GitHub's Storage 
  > 
+> 🏆 22 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -142,6 +144,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BetoNajera9/BetoNajera9/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 03:25:22 UTC
+ Last Updated on 05/09/2025 03:26:21 UTC
 <!--END_SECTION:waka-->
 </details>
