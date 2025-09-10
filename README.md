@@ -46,17 +46,18 @@ I am looking for projects that allow me to apply my experience and skills to dri
 
 ### Technologies
 
+![Terraform](https://img.shields.io/badge/Terraform-%23F20089?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23F20089?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23F20089?style=flat&logo=kubernetes&logoColor=white)
 ![amazon](https://img.shields.io/badge/AWS-%23F20089?style=flat&logo=amazonaws&logoColor=white)
 ![git](https://img.shields.io/badge/Git-%23F20089?style=flat&logo=git&logoColor=white)
 ![bash](https://img.shields.io/badge/Bash-%23F20089?style=flat&logo=gnubash&logoColor=white)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=donut" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=donut" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=betonajera9&show_icons=true&rank_icon=github&theme=radical" />
 
- <img src="https://streak-stats.demolab.com?user=betonajera9&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=betonajera9&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 <br/>
 <br/>
 
