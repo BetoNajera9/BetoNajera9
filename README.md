@@ -65,15 +65,13 @@ I am looking for projects that allow me to apply my experience and skills to dri
 <summary>Some statistics...</summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C281%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 135.0 kB Used in GitHub's Storage 
  > 
-> 🏆 169 Contributions in the Year 2025
+> 🏆 172 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -81,54 +79,6 @@ I am looking for projects that allow me to apply my experience and skills to dri
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-🌆 Daytime                662 commits         ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌃 Evening                471 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌙 Night                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Tuesday                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Thursday                 303 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Friday                   286 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Sunday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Terraform                20 hrs 41 mins      ███████████████████░░░░░░   76.94 % 
-TypeScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-HCL                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-
-🔥 Editors: 
-VS Code                  26 hrs 30 mins      █████████████████████████   98.57 % 
-DataGrip                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-
-🐱‍💻 Projects: 
-terraform-fargate-mongodb18 hrs 7 mins       █████████████████░░░░░░░░   67.41 % 
-pay-in-gateway-terraform 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-pay-in-gateway-providers-1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-pay-out-gateway-database-52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-retorna-payment-orders-do45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-💻 Operating System: 
-Mac                      26 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -146,6 +96,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BetoNajera9/BetoNajera9/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 00:28:15 UTC
+ Last Updated on 28/09/2025 00:32:22 UTC
 <!--END_SECTION:waka-->
 </details>
