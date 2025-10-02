@@ -21,37 +21,48 @@
 I am looking for projects that allow me to apply my experience and skills to drive innovation and achieve extraordinary results. If you are looking for someone who can take your project to the next level, let's talk!
 
 ### Languages
-
 ![Javascript](https://img.shields.io/badge/Javascript-%23F20089?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-%23F20089?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%23F20089?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23F20089?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F20089?style=flat&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23F20089?style=flat&logo=gnubash&logoColor=white)
 
-### Frameworks
-
-![Nestjs](https://img.shields.io/badge/NestJS-%23F20089?style=flat&logo=nestjs)
+### Runtime Environments
 ![Nodejs](https://img.shields.io/badge/NodeJS-%23F20089?style=flat&logo=nodedotjs&logoColor=white)
+
+### Frameworks & Libraries
+![Nestjs](https://img.shields.io/badge/NestJS-%23F20089?style=flat&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-%23F20089?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23F20089?style=flat&logo=react&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/VueJS-%23F20089?style=flat&logo=vuedotjs&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-%23F20089?style=flat&logo=serverless&logoColor=white)
 
 ### Databases
-
-![Mongodb](https://img.shields.io/badge/MongoDB-%23F20089?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F20089?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23F20089?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23F20089?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23F20089?style=flat&logo=redis&logoColor=white)
-![Dynamodb](https://img.shields.io/badge/DynamoDB-%23F20089?style=flat&logo=amazondynamodb&logoColor=white)
-![postgesql](https://img.shields.io/badge/PostgreSQL-%23F20089?style=flat&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-%23F20089?style=flat&logo=mysql&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-%23F20089?style=flat&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%23F20089?style=flat&logo=amazondynamodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F20089?style=flat&logo=oracle&logoColor=white)
 
-### Technologies
-
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23F20089?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-%23F20089?style=flat&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-%23F20089?style=flat&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS_RDS-%23F20089?style=flat&logo=amazonrds&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23F20089?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23F20089?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23F20089?style=flat&logo=kubernetes&logoColor=white)
-![amazon](https://img.shields.io/badge/AWS-%23F20089?style=flat&logo=amazonaws&logoColor=white)
-![git](https://img.shields.io/badge/Git-%23F20089?style=flat&logo=git&logoColor=white)
-![bash](https://img.shields.io/badge/Bash-%23F20089?style=flat&logo=gnubash&logoColor=white)
+
+### Tools & Testing
+![Git](https://img.shields.io/badge/Git-%23F20089?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23F20089?style=flat&logo=githubactions&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-%23F20089?style=flat&logo=datagrip&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23F20089?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23F20089?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23F20089?style=flat&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23F20089?style=flat&logo=swagger&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=donut" />
 
