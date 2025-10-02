@@ -48,9 +48,6 @@ I am looking for projects that allow me to apply my experience and skills to dri
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23F20089?style=flat&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-%23F20089?style=flat&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/AWS_S3-%23F20089?style=flat&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS_RDS-%23F20089?style=flat&logo=amazonrds&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23F20089?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23F20089?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23F20089?style=flat&logo=kubernetes&logoColor=white)
