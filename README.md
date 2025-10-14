@@ -106,9 +106,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=betonajera9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F72585" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F72585" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=betonajera9&show_icons=true&theme=radical&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F72585" width="60%" />
 
-<img src="https://streak-stats.demolab.com?user=betonajera9&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=F72585&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F72585&sideLabels=F72585&dates=8B949E" width="60%" />
+<img src="https://streak-stats.demolab.com?user=betonajera9&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=F72585&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F72585&sideLabels=F72585&dates=8B949E&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" width="60%" />
 
 </div>
 
