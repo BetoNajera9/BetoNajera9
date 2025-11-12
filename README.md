@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&random=false&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Back-End+Specialist+%7C+Cloud+Architect;Always+learning+new+technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+---
 
 ### 📫 Let's Connect!
 
@@ -15,13 +15,9 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-%23F20089?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 </div>
 
 ## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🧠 **Results-Oriented**: My pragmatic approach to software engineering enables me to deliver projects with high efficiency and precision
 - 🌐 **Full-Stack Developer**: Though my heart beats for the Back-End, I have solid experience in Full-Stack development
@@ -30,21 +26,17 @@
 - ⏱️ **Timely Deliveries**: I value my clients' time and trust, striving to meet deadlines without compromising quality
 - 🌟 **Exceptional Quality**: Quality is non-negotiable. I am committed to impeccable execution on every project
 
-<br clear="both">
-
 ---
 
 ## 🎯 My Goals
 
 <div align="center">
 
-```
-🔍 I am looking for projects that allow me to apply my experience and skills
-    to drive innovation and achieve extraordinary results
-    
-💡 If you are looking for someone who can take your project to the next level...
-    Let's talk! 🚀
-```
+### 🔍 Seeking Opportunities
+I am looking for projects that allow me to apply my experience and skills to drive innovation and achieve extraordinary results.
+
+### 💡 Ready to Collaborate
+If you are looking for someone who can take your project to the next level... **Let's talk!** 🚀
 
 </div>
 
@@ -70,7 +62,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-%23F20089?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/VueJS-%23F20089?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%23F20089?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-%23F20089?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F20089?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,6 +73,7 @@
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23F20089?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-%23F20089?style=for-the-badge&logo=serverless&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23F20089?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23F20089?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23F20089?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -100,6 +92,21 @@
 
 ---
 
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **Payment Gateway System** | Scalable payment processing solution with multiple provider integrations | TypeScript, AWS, Terraform, DynamoDB |
+| 💳 **Pay-Out Gateway** | Secure payout management system with automated processing | Node.js, PostgreSQL, Docker, Kubernetes |
+| 🔧 **Design Patterns Catalog** | Comprehensive implementation of software design patterns | TypeScript, Jest, Clean Architecture |
+| 📱 **Full-Stack Web Applications** | Modern responsive web applications with real-time features | Vue.js, Nuxt.js, Express, MongoDB |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -112,7 +119,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 📈 Detailed Statistics
 
@@ -126,7 +133,8 @@
 
 </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2041%20mins-blue)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -216,15 +224,17 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ### ⚡ Fun Fact
-```
-Did you know I've written over 1.5 million lines of code? 
-And still counting! 🚀
-```
+**Did you know I've written over 1.5 million lines of code?** And still counting! 🚀
 
 ---
+
+### 🤝 Let's Build Something Amazing Together!
+
+Whether you have an innovative project idea, need expert consultation, or want to collaborate on cutting-edge technology solutions, I'm here to help bring your vision to life.
+
+**📧 Drop me a line:** [ing.betonajera@gmail.com](mailto:ing.betonajera@gmail.com)  
+**💼 Connect professionally:** [LinkedIn](https://www.linkedin.com/in/roberto-miron-najera-287a06207)
 
 *✨ Always open to new opportunities and interesting collaborations ✨*
 
