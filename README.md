@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/RMN.png" alt="Roberto Mirón Logo" width="200"/>
+
 # 👋 Hello! I'm Roberto Mirón
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&random=false&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Back-End+Specialist+%7C+Cloud+Architect;Always+learning+new+technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
